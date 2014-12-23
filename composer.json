@@ -21,7 +21,7 @@
     ],
     "replace": {
         "zendframework/zendframework1":"1.*"
-    }
+    },
     "config": {
         "bin-dir": "bin"
     },
